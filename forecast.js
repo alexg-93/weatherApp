@@ -1,7 +1,7 @@
 
 class forecast{
     constructor(){
-       this.key='xPYjCmiPYGQAImrdVyVgtlDSJBBl67al';
+       this.key='fYp3H8cK1iOhhK4eFarw0AYFF2GpMi4A';
        this.weatherURL ='http://dataservice.accuweather.com/currentconditions/v1/';
        this.cityURL = 'http://dataservice.accuweather.com/locations/v1/cities/search';
     }
